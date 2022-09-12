@@ -1,0 +1,8 @@
+C:\Users\brazg\OneDrive\Área de Trabalho\batalhaNaval\batalhaNaval\obj\Debug\batalhaNaval.csproj.AssemblyReference.cache
+C:\Users\brazg\OneDrive\Área de Trabalho\batalhaNaval\batalhaNaval\obj\Debug\batalhaNaval.csproj.SuggestedBindingRedirects.cache
+C:\Users\brazg\OneDrive\Área de Trabalho\batalhaNaval\batalhaNaval\obj\Debug\batalhaNaval.csproj.CoreCompileInputs.cache
+C:\Users\brazg\OneDrive\Área de Trabalho\batalhaNaval\batalhaNaval\bin\Debug\batalhaNaval.exe.config
+C:\Users\brazg\OneDrive\Área de Trabalho\batalhaNaval\batalhaNaval\bin\Debug\batalhaNaval.exe
+C:\Users\brazg\OneDrive\Área de Trabalho\batalhaNaval\batalhaNaval\bin\Debug\batalhaNaval.pdb
+C:\Users\brazg\OneDrive\Área de Trabalho\batalhaNaval\batalhaNaval\obj\Debug\batalhaNaval.exe
+C:\Users\brazg\OneDrive\Área de Trabalho\batalhaNaval\batalhaNaval\obj\Debug\batalhaNaval.pdb
